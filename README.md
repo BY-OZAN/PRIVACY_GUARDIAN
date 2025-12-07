@@ -3,6 +3,7 @@ Windows işletim sisteminizde gizliliğinizi korumak için geliştirilmiş kapsa
 
 📋 Özellikler
 Privacy Guardian aşağıdaki gizlilik özelliklerini yönetmenizi sağlar:
+
 🎯 Ana Özellikler
 
 📊 Telemetri Kontrolü: Microsoft'a gönderilen kullanım verilerini durdurma
@@ -27,12 +28,6 @@ Gereksinimler
 Windows 10 veya Windows 11
 Yönetici (Administrator) hakları
 
-İndirme
-
-Releases sayfasından en son sürümü indirin
-ZIP dosyasını çıkarın
-PrivacyGuardian.bat dosyasına sağ tıklayın
-"Yönetici olarak çalıştır" seçeneğini tıklayın
 
 📖 Kullanım
 Başlangıç
@@ -81,8 +76,6 @@ Dikkat Edilmesi Gerekenler
 ⚠️ Konum Servisleri: Konum takibini kapatırsanız bazı uygulamalar çalışmayabilir
 ⚠️ Sistem Güncellemeleri: Bazı Windows güncellemeleri bu ayarları sıfırlayabilir
 
-Geri Alma
-Tüm değişiklikler geri alınabilir. İlgili menü seçeneğinden özellikleri tekrar açabilirsiniz.
 🔒 Güvenlik
 
 ✅ Açık kaynak kodlu - Kodu inceleyebilirsiniz
@@ -90,3 +83,6 @@ Tüm değişiklikler geri alınabilir. İlgili menü seçeneğinden özellikleri
 ✅ Hiçbir dış sunucuya bağlanmaz
 ✅ Kişisel veri toplamaz
 ✅ Reklam veya izleyici içermez
+
+⚖️ Yasal Uyarı
+Bu araç eğitim amaçlıdır ve Windows'un gizlilik ayarlarını değiştirmenize yardımcı olur. Kullanımı tamamen kullanıcının sorumluluğundadır. Geliştirici, bu aracın kullanımından kaynaklanan herhangi bir sorundan sorumlu değildir.
